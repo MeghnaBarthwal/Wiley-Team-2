@@ -5,9 +5,9 @@
     http://www.springframework.org/schema/beans/spring-beans-4.0.xsd">
     
 
-<bean id ="emp1" class="com.beans.Employee">
+<bean id ="emp2" class="com.beans.Employee">
 <property name = "empId" value="102" />
 <property name = "empName" value="Anushka" />
-</bean>  
-                      
+</bean> 
+                     
 </beans>
